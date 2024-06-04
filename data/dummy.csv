@@ -1,0 +1,11 @@
+Location,Device,Device_OS,Trip_description,Location_Trip,Budget,Booked
+New York,Laptop,Android,Weekend getaway to Los Angeles, USA,3800,Booked
+Tunisia,Phone,iOS,Explore the wonders of Berlin, Germany,2500,Not Booked
+Tokyo,Tablet,Android,Weekend getaway to Beijing, China,4200,Booked
+London,Laptop,Windows,Explore the wonders of Rio de Janeiro, Brazil,1800,Booked
+Mumbai,Phone,Android,Weekend getaway to Dubai, United Arab Emirates,4500,Not Booked
+Paris,Tablet,iOS,Explore the wonders of Cape Town, South Africa,3000,Booked
+Singapore,Laptop,Android,Weekend getaway to Melbourne, Australia,2000,Booked
+Berlin,Phone,iOS,Explore the wonders of Istanbul, Turkey,4800,Not Booked
+Madrid,Tablet,Windows,Weekend getaway to Amsterdam, Netherlands,3200,Booked
+Jakarta,Laptop,Android,Explore the wonders of Prague, Czech Republic,1500,Booked
